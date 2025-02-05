@@ -1,7 +1,6 @@
-# Robyn-McCarthy
-My personal repository
+# My Data Analysis Portfolio
 Hi there 👋
-Right now I'm working on multiple projects to display my capabilites in Data Analytics. 
+This is a repository I've created to display my capabilites in Data Analytics, share my projects and track my progress in Data Analytics and programming. 
 My five major projects are focused on showing skills in 
 - Python
 - SQL
